@@ -1,0 +1,51 @@
+.fr {
+  float: right;
+}
+.fl {
+  float: left;
+}
+.tac {
+  text-align: center;
+}
+.tal {
+  text-align: left;
+}
+.tar {
+  text-align: right;
+}
+.ofh {
+  overflow: hidden;
+}
+.paddingAll {
+  padding: 16px;
+}
+.fz18 {
+  font-size: 18px;
+}
+.fz16 {
+  font-size: 16px;
+}
+.fz12 {
+  font-size: 12px;
+}
+.blue {
+  color: 44b7ed;
+}
+.gray {
+  color: #7C7C7C;
+}
+.black {
+  color: #212121;
+}
+/*清楚浮动*/
+.clearfix {
+  *zoom: 1;
+}
+.clearfix:after {
+  display: table;
+  line-height: 0;
+  content: "";
+}
+.clearfix:after {
+  clear: both;
+}
